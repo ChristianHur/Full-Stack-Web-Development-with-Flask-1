@@ -37,4 +37,4 @@ def course_list():
                     }
                 }
             ]))
-    return courses
+    return classes
